@@ -104,8 +104,8 @@ flowchart TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/rakshitgarg99/TrueForge-CloudSentinel.git
-cd TrueForge-CloudSentinel
+git clone https://github.com/rakshitcodesx/cloudsentinel.git
+cd cloudsentinel
 
 # Create and activate virtual environment
 python3 -m venv .venv
